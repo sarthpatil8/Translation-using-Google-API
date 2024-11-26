@@ -1,0 +1,48 @@
+/* src/Translate.css */
+.translation-app {
+  font-family: Arial, sans-serif;
+}
+
+.translation-form {
+  display: flex;
+}
+
+.input-section, .output-section {
+  flex: 1;
+  padding: 20px;
+}
+
+.input-section {
+  border-right: 1px solid #ccc;
+  background-color: #f0f8ff; /* Change the background color */
+}
+
+.output-section {
+  padding-left: 20px;
+  background-color: #e6ffe6; /* Change the background color */
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+  font-size: 14px;
+  resize: vertical; /* Allow the text area to expand */
+  min-height: 100px;
+}
+
+select, button {
+  margin-top: 5px;
+  padding: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 20px;
+}
