@@ -1,8 +1,11 @@
 # Language Translator 🌐🔤
 
-[![GitHub License](https://img.shields.io/github/license/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/issues)
+[![GitHub License](https://img.shields.io/github/license/sarthpatil8/Translation-using-Google-API)](https://github.com/sarthpatil8/Translation-using-Google-API/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/sarthpatil8/Translation-using-Google-API)](https://github.com/sarthpatil8/Translation-using-Google-API/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/sarthpatil8/Translation-using-Google-API)](https://github.com/sarthpatil8/Translation-using-Google-API/issues)
+
+
+
 
 ## Project Description
 A scalable and maintainable full-stack application built with React, Node.js, and a robust backend API. This project demonstrates a clean architecture and separation of concerns between the frontend and backend.
@@ -22,7 +25,7 @@ A scalable and maintainable full-stack application built with React, Node.js, an
 ## 🛠 Installation Steps
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sarthpatil8/Translation-using-Google-API.git
+git clone https://github.com/sarthpatil8/Translation-using-Google-API
 cd language-translator
 ```
 
