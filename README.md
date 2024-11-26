@@ -1,8 +1,8 @@
 # Language Translator 🌐🔤
 
-[![GitHub License](https://img.shields.io/github/license/sarthpatil8/Bhashini-language-translator)](https://github.com/sarthpatil8/Bhashini-language-translator/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/sarthpatil8/Bhashini-language-translator)](https://github.com/sarthpatil8/Bhashini-language-translator/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/sarthpatil8/Bhashini-language-translator)](https://github.com/sarthpatil8/Bhashini-language-translator/issues)
+[![GitHub License](https://img.shields.io/github/license/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/sarthpatil8/Translation-using-Google-API.git)](https://github.com/sarthpatil8/Translation-using-Google-API.git/issues)
 
 ## Project Description
 A scalable and maintainable full-stack application built with React, Node.js, and a robust backend API. This project demonstrates a clean architecture and separation of concerns between the frontend and backend.
